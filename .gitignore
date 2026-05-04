@@ -11,11 +11,11 @@ dist
 *.egg-info
 *.egg
 # Dataset files
-*.json
+/data/*
 
 # Generated model files
 *.joblib
-models/
+/models/
 
 # Generated C exports
-include/
+/include/
