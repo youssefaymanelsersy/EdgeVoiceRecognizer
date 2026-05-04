@@ -1,0 +1,21 @@
+.venv
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+build
+dist
+*.egg-info
+*.egg
+# Dataset files
+*.json
+
+# Generated model files
+*.joblib
+models/
+
+# Generated C exports
+include/
